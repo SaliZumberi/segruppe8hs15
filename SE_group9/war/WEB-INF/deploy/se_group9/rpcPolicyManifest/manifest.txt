@@ -1,0 +1,3 @@
+# Module se_group9
+# RPC service class, partial path of RPC policy file
+com.google.gwt.sample.SE_group9.client.GreetingService, 1163D6BBC3213EB225BAA1A51A495925.gwt.rpc

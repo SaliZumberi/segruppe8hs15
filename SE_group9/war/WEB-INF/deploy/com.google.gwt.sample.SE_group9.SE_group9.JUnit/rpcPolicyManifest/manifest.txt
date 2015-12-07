@@ -1,0 +1,2 @@
+# Module com.google.gwt.sample.SE_group9.SE_group9.JUnit
+# RPC service class, partial path of RPC policy file

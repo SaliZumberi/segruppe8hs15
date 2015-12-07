@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.SE_group9.client.GreetingService
+path: 1163D6BBC3213EB225BAA1A51A495925.gwt.rpc

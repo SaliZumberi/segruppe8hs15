@@ -1,0 +1,33 @@
+    <countries>  
+        <team id="Language" title="Team A" icon="images/silk/flag_yellow.gif" checked="true">  
+            <country title="German" qtip="Captain - Rank 1" checked="true" rank="1"/>  
+            <country title="English" qtip="Rank 2" rank="2" checked="false"/>  
+            <country title="French" qtip="Rank 3" rank="3" checked="false"/>  
+            <country title="Italian" qtip="Rank 4" rank="4" checked="false"/>  
+        </team>  
+        <team title="Length" icon="images/silk/flag_blue.gif">  
+            <country title="short (>60min))"  checked="true" rank="1"/>  
+            <country title="medium (>90min)" qtip="default" rank="2" checked="false"/>  
+            <country title="long (>120min)" rank="3" checked="false"/>  
+        </team>  
+      
+        <team title="Country" icon="images/silk/flag_green.gif">  
+            <country title="United States" qtip="Captain - Rank 1" checked="true" rank="1"/>  
+            <country title="Japan" qtip="Rank 2" rank="2" checked="false"/>  
+            <country title="Italy" qtip="Rank 3" rank="3" checked="false"/>  
+            <country title="Finland" qtip="Rank 4" rank="4" checked="false"/>  
+             <country title="United States" qtip="Captain - Rank 1" checked="true" rank="1"/>  
+            <country title="Japan" qtip="Rank 2" rank="2" checked="false"/>  
+            <country title="Italy" qtip="Rank 3" rank="3" checked="false"/>  
+            <country title="Finland" qtip="Rank 4" rank="4" checked="false"/> 
+             <country title="United States" qtip="Captain - Rank 1" checked="true" rank="1"/>  
+            <country title="Japan" qtip="Rank 2" rank="2" checked="false"/>  
+            <country title="Italy" qtip="Rank 3" rank="3" checked="false"/>  
+            <country title="Finland" qtip="Rank 4" rank="4" checked="false"/> 
+             <country title="United States" qtip="Captain - Rank 1" checked="true" rank="1"/>  
+            <country title="Japan" qtip="Rank 2" rank="2" checked="false"/>  
+            <country title="Italy" qtip="Rank 3" rank="3" checked="false"/>  
+            <country title="Finland" qtip="Rank 4" rank="4" checked="false"/> 
+        </team>  
+    </countries>  
+
